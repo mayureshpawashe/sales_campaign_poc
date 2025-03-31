@@ -1,0 +1,51 @@
+CampaignID,Region,Product,Outcome
+Campaign1,North,Truck,Very Positive
+Campaign2,West,Sedan,Positive
+Campaign3,South,Hatchback,Very Positive
+Campaign4,East,SUV,Very Positive
+Campaign5,West,Sedan,Neutral
+Campaign6,South,Sedan,Negative
+Campaign7,North,Hatchback,Very Positive
+Campaign8,South,Hatchback,Very Negative
+Campaign9,North,Truck,Neutral
+Campaign10,North,SUV,Negative
+Campaign11,South,SUV,Neutral
+Campaign12,East,SUV,Very Negative
+Campaign13,North,Minivan,Neutral
+Campaign14,East,SUV,Negative
+Campaign15,West,Truck,Very Negative
+Campaign16,West,Hatchback,Very Negative
+Campaign17,South,Minivan,Very Negative
+Campaign18,West,Sedan,Very Positive
+Campaign19,North,Minivan,Very Positive
+Campaign20,East,Sedan,Positive
+Campaign21,West,Sedan,Negative
+Campaign22,East,Minivan,Very Positive
+Campaign23,East,Hatchback,Neutral
+Campaign24,North,Sedan,Very Positive
+Campaign25,West,Sedan,Neutral
+Campaign26,East,Truck,Very Negative
+Campaign27,West,Minivan,Very Negative
+Campaign28,East,SUV,Negative
+Campaign29,North,Hatchback,Negative
+Campaign30,East,Truck,Neutral
+Campaign31,South,Hatchback,Neutral
+Campaign32,West,SUV,Very Positive
+Campaign33,West,Minivan,Very Negative
+Campaign34,South,Minivan,Neutral
+Campaign35,North,Truck,Very Positive
+Campaign36,East,Truck,Very Positive
+Campaign37,South,Sedan,Positive
+Campaign38,South,Truck,Negative
+Campaign39,East,Truck,Neutral
+Campaign40,South,Minivan,Very Negative
+Campaign41,West,Sedan,Neutral
+Campaign42,South,SUV,Very Positive
+Campaign43,East,Minivan,Very Positive
+Campaign44,North,Hatchback,Very Positive
+Campaign45,East,Truck,Negative
+Campaign46,South,Hatchback,Positive
+Campaign47,West,Minivan,Very Positive
+Campaign48,North,Sedan,Negative
+Campaign49,South,SUV,Negative
+Campaign50,East,Truck,Neutral
