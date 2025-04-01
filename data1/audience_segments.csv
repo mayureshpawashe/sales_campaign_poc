@@ -1,0 +1,51 @@
+segment_id,segment_name,age_range,income_level,preferred_vehicle,past_purchases
+A1,Urban Professionals,45-60,86k-99k,SUV Y,SUV Y
+A2,Urban Professionals,28-61,100k-107k,SUV X,SUV X
+A3,Urban Professionals,30-63,70k-120k,SUV X,Sedan B
+A4,Urban Professionals,38-52,58k-126k,SUV X,SUV X
+A5,Urban Professionals,47-57,83k-142k,Sedan B,Sedan A
+A6,Young Families,30-52,50k-123k,SUV Y,SUV X
+A7,Retirees,45-45,49k-138k,SUV Y,Sedan A
+A8,Urban Professionals,43-45,52k-77k,SUV Y,SUV Y
+A9,Retirees,34-59,53k-92k,Sedan A,Sedan B
+A10,Retirees,37-53,58k-116k,Sedan A,SUV Y
+A11,Retirees,49-60,63k-148k,SUV X,SUV Y
+A12,Retirees,43-59,65k-142k,SUV X,Sedan B
+A13,Young Families,33-62,59k-117k,Sedan A,SUV Y
+A14,Retirees,25-62,74k-83k,Sedan B,SUV Y
+A15,Retirees,28-58,83k-116k,SUV Y,SUV Y
+A16,Young Families,46-47,77k-85k,Sedan A,SUV Y
+A17,Retirees,30-46,99k-71k,SUV Y,Sedan A
+A18,Retirees,40-55,55k-141k,Sedan B,Sedan A
+A19,Young Families,37-41,92k-90k,SUV X,SUV Y
+A20,Urban Professionals,29-62,42k-142k,SUV X,SUV Y
+A21,Retirees,27-42,87k-92k,SUV X,SUV Y
+A22,Retirees,39-44,64k-74k,Sedan A,Sedan A
+A23,Urban Professionals,31-64,84k-128k,SUV Y,SUV Y
+A24,Urban Professionals,27-53,58k-80k,Sedan B,Sedan B
+A25,Retirees,42-55,45k-130k,SUV Y,SUV Y
+A26,Young Families,36-46,87k-125k,Sedan B,SUV X
+A27,Retirees,47-47,78k-107k,Sedan A,SUV Y
+A28,Retirees,49-49,86k-74k,SUV X,SUV X
+A29,Urban Professionals,49-61,66k-79k,SUV Y,SUV X
+A30,Retirees,28-42,83k-130k,SUV Y,Sedan A
+A31,Young Families,36-58,57k-77k,Sedan B,SUV X
+A32,Retirees,28-58,85k-144k,Sedan B,SUV Y
+A33,Urban Professionals,29-50,91k-141k,SUV Y,SUV X
+A34,Urban Professionals,30-53,83k-75k,SUV Y,Sedan A
+A35,Young Families,27-48,55k-85k,Sedan B,Sedan A
+A36,Young Families,45-59,65k-103k,Sedan B,Sedan A
+A37,Urban Professionals,43-54,72k-130k,SUV X,SUV Y
+A38,Retirees,28-59,69k-90k,Sedan A,Sedan A
+A39,Retirees,38-59,90k-92k,Sedan B,SUV X
+A40,Young Families,31-61,72k-130k,Sedan B,Sedan A
+A41,Young Families,25-54,91k-125k,SUV X,Sedan B
+A42,Urban Professionals,37-43,65k-137k,Sedan A,Sedan A
+A43,Urban Professionals,46-41,42k-139k,SUV Y,SUV Y
+A44,Young Families,31-51,80k-116k,SUV X,SUV X
+A45,Urban Professionals,50-56,62k-147k,SUV Y,SUV X
+A46,Retirees,32-44,47k-80k,Sedan B,SUV Y
+A47,Urban Professionals,25-56,91k-70k,Sedan A,Sedan A
+A48,Urban Professionals,30-55,52k-136k,Sedan A,SUV X
+A49,Retirees,50-59,79k-89k,Sedan A,SUV Y
+A50,Urban Professionals,30-50,64k-132k,SUV Y,Sedan A

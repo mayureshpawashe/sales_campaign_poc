@@ -1,0 +1,51 @@
+campaign_id,campaign_name,start_date,end_date,target_segment,click_rate,conversion_rate,sales_generated
+001,Spring Sedan Discount,2025-01-23,2025-02-15,Urban Professionals,17%,4%,89
+002,Spring Sedan Discount,2025-01-13,2025-01-28,Retirees,16%,6%,72
+003,Sedan Offer,2025-02-16,2025-03-14,Retirees,11%,7%,134
+004,SUV Promo Q1,2025-02-13,2025-03-01,Retirees,12%,6%,147
+005,Spring Sedan Discount,2025-01-19,2025-02-17,Urban Professionals,11%,7%,66
+006,Sedan Offer,2025-01-22,2025-02-19,Urban Professionals,16%,8%,83
+007,Spring Sedan Discount,2025-02-08,2025-03-07,Retirees,17%,6%,83
+008,Spring Sedan Discount,2025-01-20,2025-02-05,Young Families,15%,8%,64
+009,SUV Promo Q1,2025-03-02,2025-03-18,Young Families,19%,3%,96
+010,Sedan Offer,2025-02-22,2025-03-19,Retirees,15%,5%,116
+011,Winter SUV Sale,2025-02-04,2025-02-23,Retirees,19%,3%,61
+012,Spring Sedan Discount,2025-01-24,2025-02-23,Retirees,16%,8%,128
+013,Spring Sedan Discount,2025-01-06,2025-01-29,Young Families,15%,6%,100
+014,Sedan Offer,2025-02-03,2025-03-02,Young Families,17%,7%,104
+015,Winter SUV Sale,2025-02-04,2025-02-21,Urban Professionals,13%,7%,54
+016,Spring Sedan Discount,2025-02-27,2025-03-16,Young Families,17%,6%,100
+017,Winter SUV Sale,2025-01-26,2025-02-14,Urban Professionals,11%,3%,122
+018,SUV Promo Q1,2025-02-11,2025-03-06,Urban Professionals,13%,4%,51
+019,Winter SUV Sale,2025-01-08,2025-02-04,Urban Professionals,20%,3%,104
+020,Winter SUV Sale,2025-02-14,2025-03-06,Retirees,15%,4%,94
+021,Sedan Offer,2025-01-19,2025-02-13,Urban Professionals,12%,3%,96
+022,Winter SUV Sale,2025-01-25,2025-02-12,Retirees,15%,4%,132
+023,Winter SUV Sale,2025-02-08,2025-03-05,Retirees,18%,7%,62
+024,Winter SUV Sale,2025-02-26,2025-03-27,Retirees,10%,4%,87
+025,Spring Sedan Discount,2025-02-02,2025-02-19,Retirees,20%,3%,51
+026,SUV Promo Q1,2025-02-23,2025-03-14,Young Families,10%,8%,51
+027,Spring Sedan Discount,2025-02-24,2025-03-12,Retirees,17%,6%,53
+028,SUV Promo Q1,2025-02-01,2025-02-26,Urban Professionals,12%,7%,141
+029,Sedan Offer,2025-02-04,2025-03-04,Urban Professionals,13%,7%,131
+030,Sedan Offer,2025-03-02,2025-03-18,Urban Professionals,11%,5%,115
+031,Winter SUV Sale,2025-02-09,2025-03-02,Young Families,13%,5%,99
+032,Spring Sedan Discount,2025-01-27,2025-02-16,Urban Professionals,11%,8%,90
+033,Sedan Offer,2025-01-11,2025-02-01,Retirees,19%,5%,144
+034,Winter SUV Sale,2025-01-31,2025-02-26,Retirees,11%,4%,128
+035,SUV Promo Q1,2025-02-20,2025-03-17,Young Families,15%,7%,100
+036,SUV Promo Q1,2025-02-13,2025-03-01,Urban Professionals,20%,7%,148
+037,Sedan Offer,2025-01-19,2025-02-04,Retirees,17%,8%,100
+038,Winter SUV Sale,2025-02-04,2025-03-05,Retirees,20%,4%,113
+039,Winter SUV Sale,2025-02-11,2025-03-05,Retirees,15%,7%,97
+040,Sedan Offer,2025-02-02,2025-02-22,Retirees,14%,8%,111
+041,Spring Sedan Discount,2025-01-23,2025-02-09,Urban Professionals,18%,4%,94
+042,Spring Sedan Discount,2025-02-06,2025-03-07,Retirees,16%,4%,70
+043,Winter SUV Sale,2025-01-13,2025-01-29,Young Families,20%,6%,88
+044,Winter SUV Sale,2025-02-14,2025-03-02,Urban Professionals,14%,7%,56
+045,SUV Promo Q1,2025-02-07,2025-02-24,Young Families,20%,4%,128
+046,Sedan Offer,2025-01-27,2025-02-12,Young Families,17%,3%,130
+047,Winter SUV Sale,2025-01-01,2025-01-26,Urban Professionals,11%,5%,55
+048,Winter SUV Sale,2025-02-18,2025-03-19,Retirees,10%,8%,142
+049,Spring Sedan Discount,2025-01-01,2025-01-22,Retirees,19%,8%,142
+050,Winter SUV Sale,2025-02-15,2025-03-03,Young Families,17%,4%,148
